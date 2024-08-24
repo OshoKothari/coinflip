@@ -1,5 +1,5 @@
 {
-  "name": "CoinFlip - Double up your ETH",
+  "name": "CoinFlip",
   "short_name": "CoinFlip",
   "icons": [
     { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
